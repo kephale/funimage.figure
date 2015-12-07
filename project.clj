@@ -1,4 +1,4 @@
-(defproject funimage.figure "0.1.2"
+(defproject funimage.figure "0.1.3"
   :description "Handle figures and slideshows"
   :url "http://github.com/funimage"
   :license {:name "Apache 2 Public License"

@@ -1,4 +1,4 @@
-(ns funimage.slideshow
+(ns funimage.figure.slideshow
   (:import [org.apache.poi.ss.usermodel Cell Row Sheet Workbook Chart ClientAnchor Drawing]
            [org.apache.poi.hssf.usermodel HSSFWorkbook]
            [org.apache.poi.xssf.usermodel XSSFWorkbook]
